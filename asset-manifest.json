@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/AleksandrPav/goit-react-hw-03-image-finder/static/css/main.1475b8f9.css",
+    "main.js": "/AleksandrPav/goit-react-hw-03-image-finder/static/js/main.1bc79d6c.js",
+    "static/media/undefined.jpg": "/AleksandrPav/goit-react-hw-03-image-finder/static/media/undefined.81aee21fb637c2cbcaca.jpg",
+    "static/media/error.jpg": "/AleksandrPav/goit-react-hw-03-image-finder/static/media/error.f40d47cfb005bbcab5ea.jpg",
+    "index.html": "/AleksandrPav/goit-react-hw-03-image-finder/index.html",
+    "main.1475b8f9.css.map": "/AleksandrPav/goit-react-hw-03-image-finder/static/css/main.1475b8f9.css.map",
+    "main.1bc79d6c.js.map": "/AleksandrPav/goit-react-hw-03-image-finder/static/js/main.1bc79d6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.1475b8f9.css",
+    "static/js/main.1bc79d6c.js"
   ]
 }
